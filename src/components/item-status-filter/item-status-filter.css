@@ -1,0 +1,8 @@
+.item-status-filter-btn {
+    height: 50px;
+    font-size: 1.25rem;
+}
+
+.item-status-filter-btn-active {
+    border-radius: 0;
+}

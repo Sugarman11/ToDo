@@ -1,0 +1,15 @@
+.app-header-place {
+    align-items: flex-end;
+    width: auto;
+    height: auto;
+}
+
+.app-header-place h1 {
+    font-size: 70px;
+    flex-grow: 1;
+}
+
+.app-header-place h2 {
+    font-size: 1.5rem;
+    color: rgb(117, 117, 117);
+}

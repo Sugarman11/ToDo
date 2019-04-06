@@ -1,0 +1,40 @@
+.todo-list-item-group {
+    align-items: center;
+    width: 100%;
+}
+
+.todo-list-item-group-btn {
+    display: inline-flex;
+}
+
+.todo-list-item-btn {
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-right: 5px;
+    box-shadow: 0 0 3px rgb(139, 137, 137);
+    background: rgb(247, 247, 247);
+}
+
+.btn i {
+    font-size: 135%;
+    vertical-align: middle;
+}
+
+.todo-list-item-label {
+    padding-right: 10px;
+    min-width: 200px;
+    flex-grow: 1;
+    line-height: 50px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.todo-list-item-group.done .todo-list-item-label {
+    text-decoration: line-through;
+}
+
+.todo-list-item-group.important .todo-list-item-label {
+    font-weight: bold;
+    color: steelblue;
+}

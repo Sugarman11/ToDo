@@ -1,0 +1,14 @@
+.main-app-container {
+    padding: 40px;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    background: rgb(247, 244, 244);
+    border-radius: 5px;
+}
+
+.top-panel {
+    align-items: flex-end;
+    margin: 10px 0 20px 0;
+}

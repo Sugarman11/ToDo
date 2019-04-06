@@ -1,0 +1,16 @@
+.item-add-form-container {
+    margin-top: 10px;
+}
+
+.item-add-form-btn {
+    font-size: 1.5rem;
+    width: 14rem;
+    box-shadow: 0 0 5px rgb(139, 137, 137);
+    background: #d6d6d62d;
+}
+
+.item-add-form-input {
+    font-size: 25px;
+    margin-right: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
